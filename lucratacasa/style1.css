@@ -1,0 +1,18 @@
+ul li{
+    display: inline-block;   
+}
+.pfont{
+    
+    color: yellow;
+    font-size: 40px;
+    font-style: italic;
+    text-align: center;
+}
+.pblue, a{
+    font-size: 30px;
+    color: black;
+}
+.primul{
+    color:grey;
+
+}
